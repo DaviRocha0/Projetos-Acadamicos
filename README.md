@@ -1,2 +1,1 @@
-# UNINTER
-Trabalhos acadêmicos.
+# UNINTER - Projetos Acadêmicos
