@@ -1,1 +1,1 @@
-# UNINTER - Projetos Acadêmicos
+# Meus projetos acadêmicos
